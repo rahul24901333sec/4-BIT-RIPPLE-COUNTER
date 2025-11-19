@@ -1,3 +1,7 @@
+NAME: R.RAHUL
+REG NO: 212224050034
+
+
 **AIM:**
 
 To implement  4 Bit Ripple Counter using verilog and validating their functionality using their functional tables
